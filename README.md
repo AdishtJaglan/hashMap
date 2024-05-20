@@ -46,17 +46,17 @@ The `HashMap` class is a custom implementation of a hash table, a data structure
 Clone the project
 
 ```bash
-  git clone https://github.com/AdishtJaglan/linked-list.git
+  git clone https://github.com/AdishtJaglan/hashMap.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd linked-list
+  cd hashMap
 ```
 
 Execute the file
 
 ```bash
-  node LinkedList.js
+  node hashMap.js
 ```
